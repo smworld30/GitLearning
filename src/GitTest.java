@@ -6,6 +6,8 @@ public class GitTest {
 		//HII
 		
 		System.out.println("hiiii");
+		
+		//another comment
 	}
 
 }
